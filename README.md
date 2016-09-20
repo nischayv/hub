@@ -1,2 +1,4 @@
-# hub
-The hub for our spoked wheel.
+# Arcyive Hub
+---
+
+The Hub for SE/CS student (and organization) resources.
