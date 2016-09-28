@@ -9,7 +9,7 @@ So, if you see something you'd like to add or fix, here's how:
   git clone https://github.com/arcyive/hub.git
   ```
   
-2. Make your addition or fix, using our [style guide](https://github.com/arcyive/hub/STYLE.md).
+2. Make your addition or fix, using our [style guide](STYLE.md).
 3. Push your fork:
    ```bash
    git commit -am '<descriptive commit message>'
