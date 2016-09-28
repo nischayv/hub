@@ -1,4 +1,4 @@
-#CONTRIBUTING
+#Contribution Guide
 
 We couldn't build the **ArCYive** without contributions from ISU students who are making it through college right now. Every part of the **ArCYive** is made by ISU students for ISU students. 
 
