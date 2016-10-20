@@ -12,4 +12,4 @@ Here is a list of resources that will help you prepare, or brush up (if you are 
   questions they have had in the past)
 * [Hackerrank] (https://www.hackerrank.com/) (Place to practice programming problems)
 * [Visual Go] (https://visualgo.net)
-  An online tool that visualizes datastructures to make understanding it easier!
+  (An online tool that visualizes datastructures to make understanding it easier!)
