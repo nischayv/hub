@@ -13,3 +13,7 @@ Here is a list of resources that will help you prepare, or brush up (if you are 
 * [Hackerrank] (https://www.hackerrank.com/) (Place to practice programming problems)
 * [VisuAlgo] (https://visualgo.net)
   (An online tool that visualizes datastructures to make understanding it easier!)
+* Another great resource is [Coursera] (https://www.coursera.org). Here are some recommended courses.
+    * [Algorithms, Part 1] (https://www.coursera.org/learn/introduction-to-algorithms) by Princeton University
+    * [Algorithms, Part 2] (https://www.coursera.org/learn/java-data-structures-algorithms-2) by Princeton University
+    * [Algorithms] (https://www.coursera.org/specializations/algorithms) by Stanford University
